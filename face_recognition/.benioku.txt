@@ -1,0 +1,2 @@
+*******************************
+Başka kişilerin veya kendinizin görsellerini tanıtmak isterseniz person3 diye bir fotoğraf koyup, datacollect dosyasında yeni personunuzu tanıtmanız yeterli olucaktır.
